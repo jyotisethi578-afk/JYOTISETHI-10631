@@ -72,3 +72,5 @@ This project can be extended by:
 ## 🖥️ Sample Output
 
  
+ <img width="1686" height="840" alt="PROJECTOUPUT" src="https://github.com/user-attachments/assets/a18ce7fb-567e-4570-bb58-d57a6be051ac" />
+
